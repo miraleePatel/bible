@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bible App</string>
+    <string name="facebook_app_id">265984113047551</string>
+    <string name="fb_login_protocol_scheme">fb265984113047551</string>
+    <string name="facebook_client_token">7bd0477ce25a9611eef211cc173bccee</string>
+</resources>

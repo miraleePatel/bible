@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "99418904117",
+    "project_id": "bible-38300",
+    "storage_bucket": "bible-38300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99418904117:android:94cbcd40d69c42070a437c",
+        "android_client_info": {
+          "package_name": "com.example.bible_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99418904117-j7i58f4gap23sluci0l0h08qc98eks2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bible_app",
+            "certificate_hash": "89a041a1154718bbfca55cf32cef76f7c8b94df8"
+          }
+        },
+        {
+          "client_id": "99418904117-maid03aighl2b2fu61e80rrsncdcobrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bible_app",
+            "certificate_hash": "ef4370417eca6c02b64cd776cdc03e4bf224ab7f"
+          }
+        },
+        {
+          "client_id": "99418904117-ci4im59n48tfh3avacncrv6iuhr9fuos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUg-36pYTiYj13YcRWBOeDaqj6SrVCa5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99418904117-1vrdvv4el13u4359pat9qqlhu99830ii.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "99418904117-ci22slaobp60bo213eg8iolb5h7nhs9c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bibleProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
